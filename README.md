@@ -39,6 +39,7 @@ UCS654_A3_Topsis/
     ├── requirements.txt     # List of dependencies (Flask, pandas, etc.)
     └── templates/
         └── index.html       # Frontend interface for file upload
+```
 
 ---
 
@@ -113,6 +114,7 @@ gantt
     M7 (Rank 6) : 0, 32
     M6 (Rank 7) : 0, 28
     M2 (Rank 8) : 0, 6
+```
 
 ---
 
